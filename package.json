@@ -2,13 +2,9 @@
   "name": "knockout-projections",
   "version": "1.1.0-pre",
   "description": "Knockout.js observable arrays get smarter",
-  "main": "dist/knockout-projections.js",
+  "main": "src/knockout-projections.js",
   "directories": {
     "test": "test"
-  },
-  "dependencies": {
-    "knockout": "~3.0.0",
-    "jasmine-reporters": "~0.2.1"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
